@@ -1,6 +1,6 @@
 # Income Statement Profile in Power BI Project
 
-![Income_Statement](power_bi_logo.png)
+![Income_Statement](IncomestatementpowerBI.png)
 
 The Income Statement profile in the Power BI project offers a comprehensive analysis of an organization's financial performance, focusing on key performance indicators (KPIs) and crucial financial metrics. With this profile, users can gain valuable insights by visualizing and evaluating figures such as Revenue, Gross Profit, Cost of Goods Sold, Expenses, EBIT (Earnings Before Interest and Taxes), Finance Cost, Income Tax, and their year-on-year comparisons, current versus previous values, and percentage changes.
 
@@ -42,7 +42,7 @@ To use the Income Statement profile in the Power BI project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/power-bi-income-statement.git
+git clone https://github.com/Rbhavika17/Income_Statement.git
 ```
 
 2. Open the Power BI file `income_statement.pbix` using Microsoft Power BI.
